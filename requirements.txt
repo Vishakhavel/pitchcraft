@@ -1,0 +1,9 @@
+pandas
+datasets
+scikit-learn
+openai
+SpeechRecognition
+pydub
+opencv-python
+mediapipe
+numpy
